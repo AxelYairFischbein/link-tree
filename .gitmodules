@@ -1,0 +1,6 @@
+[submodule "Identikit"]
+	path = Identikit
+	url = https://github.com/AxelYairFischbein/Identikit.git
+[submodule "ong_web"]
+	path = ong_web
+	url = https://github.com/AxelYairFischbein/ong_web.git
